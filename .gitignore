@@ -1,0 +1,11 @@
+.vscode
+demos/
+Library/
+Logs/
+obj/
+Packages/
+ProjectSettings/
+UserSettings/
+Assembly-CSharp.csproj
+*.sln
+
